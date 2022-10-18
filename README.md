@@ -1,4 +1,4 @@
-<h2>Aplikasi Pengajuan Skripsi dengan Codeigniter</h2>
+<h2>Sistem Informasi Pengajuan Skripsi dengan Codeigniter</h2>
 
 <p align= "justify">Pengajuan judul skripsi merupakan tahap awal dalam proses pembuatan skripsi, di Perguruan Tinggi ini proses pengajuan judul skripsi masih dilakukan secara manual. Pengajuan judul skripsi masih menggunakan form kertas dan antara satu pihak dengan pihak lain yang terlibat dalam proses ini harus bertatap muka secara langsung, sehingga membutuhkan waktu untuk bisa menyelesaikan tahap pertama ini. Diharapkan dengan dibuatnya Aplikasi Pengajuan Skripsi ini, dapat mempercepat proses tersebut.
 
