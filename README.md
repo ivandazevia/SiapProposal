@@ -62,19 +62,69 @@ Secara keseluruhan Aplikasi Pengajuan Skripsi ini memiliki 4 aktor, yaitu mahasi
 <p align="center"><sup>Tim RMK dapat melihat detil dari pengajuan proposal Tugas Akhir mahasiswa dan dapat mengunduh file proposal tersebut. Tim RMK dapat melakukan persetujuan, revisi, maupun menolak proposal tugas akhir yang sudah diajukan mahasiswa.</sup></p>
 
 3. Fitur Lainnya
+
 ![image](https://user-images.githubusercontent.com/32997439/196488991-3781275e-5d55-492a-bc3f-66f690596ec5.png)
 <p align="center"><sup>Dashboard Tim RMK</sup></p>
 
 ![image](https://user-images.githubusercontent.com/32997439/196489092-79e67998-4d11-4bff-8169-8e144a39cb10.png)
 <p align="center"><sup>Edit Profil Tim RMK</sup></p>
 
-<h3>Mahasiswa</h3>
-1. Mengajukan Proposal Tugas Akhir
-  
-![image](https://user-images.githubusercontent.com/32997439/196482258-d97f6568-4263-4073-8194-c4aae8416add.png)<p align="center"><sup>Mahasiswa melakukan pengajuan proposal Tugas Akhir</sup></p>
+<h3>Kaprodi</h3>
+1. Melihat Daftar Pengajuan Proposal Tugas Akhir
 
-<h3>Mahasiswa</h3>
-1. Mengajukan Proposal Tugas Akhir
+![image](https://user-images.githubusercontent.com/32997439/196490455-cbea9341-4c58-4513-a0f4-e4d2753fde29.png)
+<p align="center"><sup>Kaprodi dapat melihat semua daftar proposal tugas akhir yang sudah diajukan</sup></p>
+
+2. Melihat Detil Proposal Tugas Akhir & Menentukan Dosen Pembimbing 2
+
+![image](https://user-images.githubusercontent.com/32997439/196490598-ced39823-ee87-4b75-bf02-1d9047281bbf.png)
+<p align="center"><sup>Ketika melihat detil proposal tugas akhir mahasiswa, kaprodi dapat menentukan dosen pembimbing 2 untuk mahasiswa tersebut.</sup></p>
+
+3. Melihat Daftar Tugas Akhir
+
+![image](https://user-images.githubusercontent.com/32997439/196490695-4a5a4ff6-1765-492f-8d81-46d1fe17c3a7.png)
+<p align="center"><sup>Kaprodi dapat melihat daftar semua Tugas Akhir yang sudah diajukan mahasiswa.</sup></p>
+
+4. Melihat Detil Tugas Akhir & Menentukan Jadwal dan Dosen Penguji Sidang Tugas Akhir
+
+![image](https://user-images.githubusercontent.com/32997439/196490765-3e5ea44d-148f-4b83-aed6-563532cf5adc.png)
+<p align="center"><sup>Ketika melihat detil pengajuan sidang Tugas Akhir, kaprodi dapat menentukan tanggal dan dosen penguji untuk mahasiswa tersebut.</sup></p>
+
+![image](https://user-images.githubusercontent.com/32997439/196490865-0157a701-917e-43b7-96a1-14e37467cbcb.png)
+<p align="center"><sup>Kaprodi juga dapat mengunduh file bukti bimbingan beserta soft file buku Tugas Akhir mahasiswa tersebut</sup></p>
+
+5. Melakukan Input Nilai 
+
+![image](https://user-images.githubusercontent.com/32997439/196491050-394a550d-08c9-43be-856b-193b4695726f.png)
+<p align="center"><sup>Ketika pengajuan sidang Tugas Akhir sudah disetujui, maka akan muncul daftar pengajuan yang harus dilakukan input nilai</sup></p>
+
+![image](https://user-images.githubusercontent.com/32997439/196491109-2600b956-46b2-46fa-9516-0bb71d069ec4.png)
+
+6. Fitur Lainnya
+
+![image](https://user-images.githubusercontent.com/32997439/196491139-50a493c1-f1d1-4a35-bce2-1df24c5bbd31.png)
+<p align="center"><sup>Dashboard Kaprodi</sup></p>
+
+![image](https://user-images.githubusercontent.com/32997439/196491198-5fefa2ec-3e2f-4b39-aef5-4ecb1558e8ec.png)
+<p align="center"><sup>Edit Profil Kaprodi</sup></p>
+
+
+<h3>Dosen</h3>
+1. Melihat Daftar Mahasiswa Bimbingan
+
+![image](https://user-images.githubusercontent.com/32997439/196491262-cf9506c9-ff52-469c-b015-908bb1b14ea0.png)
+<p align="center"><sup>Dosen dapat melihat semua daftar mahasiswa bimbingan Tugas Akhirnya</sup></p>
+
+2. Melihat Detil Proposal Tugas Akhir
+
+![image](https://user-images.githubusercontent.com/32997439/196491345-a41cedbe-034f-476f-abb3-647bdc56f010.png)
+<p align="center"><sup>Dosen dapat melihat detil proposal dari mahasiswa bimbingannya dan dapat mengunduh file tersebut.</sup></p>
+
+3. Fitur Lainnya
   
-![image](https://user-images.githubusercontent.com/32997439/196482258-d97f6568-4263-4073-8194-c4aae8416add.png)<p align="center"><sup>Mahasiswa melakukan pengajuan proposal Tugas Akhir</sup></p>
+![image](https://user-images.githubusercontent.com/32997439/196491415-d0962084-daf5-4a55-876e-68ac0098b28a.png)
+<p align="center"><sup>Dashboard Dosen</sup></p>
+
+![image](https://user-images.githubusercontent.com/32997439/196491553-c6efa14c-4732-40be-adef-4239f21ce694.png)
+<p align="center"><sup>Edit Profil Dosen</sup></p>
 </p>
